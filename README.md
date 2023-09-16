@@ -12,7 +12,7 @@ This project features a straightforward Solidity smart contract designed for tok
 
 ### To use this contract, follow these steps:
 
-    Download the Solidity contract file (Token.sol) to your local machine.
+    Download the Solidity contract file (token_contract.sol) to your local machine.
 
     Ensure you have a Solidity development environment set up. Tools like Remix or Truffle can be helpful for development.
 
